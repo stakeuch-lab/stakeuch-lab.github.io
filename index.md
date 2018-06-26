@@ -30,3 +30,7 @@
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
 - [International Computer Games Association (ICGA) ](https://icga.org/)
 - [The IEEE Conference on Computational Intelligence and Games (CIG) ](http://www.ieee-cig.org/)
+
+### メンバーのみ閲覧可能
+- [slack](https://stakeuchilab.slack.com/messages)
+- [scrapbox](https://scrapbox.io/stakeuchilab/)
