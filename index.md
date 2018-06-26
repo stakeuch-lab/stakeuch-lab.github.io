@@ -1,13 +1,17 @@
 # ゲーム情報学研究室 / 竹内研究室
-高知工科大学 情報学群 A501
+[高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## 研究内容
-ゲーム情報学分野での研究, ゲームプログラミングを行う。主にボードゲームを扱う。
+ゲーム情報学分野での研究やゲームプログラミングを行う。
 
-テーマ例:
+テーマ例
 - 複数のコンピュータプレイヤの利用: 合議の利用や改善・解析, 助言
 - ゲームプレイヤ作成: 探索・評価・学習など
 - 強いゲームプレイヤを使った研究:（合議）, レーティング
+
+## 活動
+- 輪講
+- ゲームプログラミング
 
 ## Members
 ### 教員
@@ -22,6 +26,7 @@
 - 濵田 幸輝
 - 山崎 蓮大
 
-## 活動
-- 輪講
-- ゲームプログラミング
+## 関連学会など
+- [情報処理学会](http://www.ipsj.or.jp/) ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
+- [International Computer Games Association (ICGA) ](https://icga.org/)
+- [The IEEE Conference on Computational Intelligence and Games (CIG) ](http://www.ieee-cig.org/)
