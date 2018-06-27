@@ -13,7 +13,7 @@
 - 輪講
 - ゲームプログラミング
 
-## Members
+## メンバー
 ### 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
 
@@ -26,7 +26,8 @@
 - 濵田 幸輝
 - 山崎 蓮大
 
-## 関連学会など
+## リンク
+### 関連学会など
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
 - [International Computer Games Association (ICGA) ](https://icga.org/)
 - [The IEEE Conference on Computational Intelligence and Games (CIG) ](http://www.ieee-cig.org/)
