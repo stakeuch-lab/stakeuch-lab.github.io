@@ -15,6 +15,7 @@
   - ゲーム計算メカニズム
 - ゲームプログラミング
   - 京都将棋, コリドール（オープンキャンパス2018/7/28, 8/5）
+  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （2018/12 - ）
 
 ## メンバー
 ### 教員
@@ -33,7 +34,8 @@
 ### 関連学会など
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
 - [International Computer Games Association (ICGA) ](https://icga.org/)
-- [The IEEE Conference on Computational Intelligence and Games (CIG) ](http://www.ieee-cig.org/)
+- [The annual IEEE Conference on Games](http://ieee-cog.org/)
+  - 旧 [The IEEE Conference on Computational Intelligence and Games (CIG) ](http://www.ieee-cig.org/)
 
 ### メンバーのみ閲覧可能
 - [slack](https://stakeuchilab.slack.com/messages)
