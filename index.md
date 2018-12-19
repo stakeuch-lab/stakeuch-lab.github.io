@@ -11,11 +11,11 @@
 
 ## 活動
 - 輪講
-  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)
-  - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)
+  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q）
+  - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q）
 - ゲームプログラミング
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
-  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （輪講2018/12 - ）
+  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018/12 - ）
 
 ## メンバー
 ### 教員
