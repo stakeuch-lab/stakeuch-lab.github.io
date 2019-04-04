@@ -2,7 +2,6 @@
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-[研究室配属について](https://stakeuch-lab.github.io/notice)
 
 ## 研究内容
 ゲーム情報学分野での研究やゲームプログラミングを行います. 
@@ -40,7 +39,7 @@
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
 
-### B3 (7名)
+### B4 (7名)
 - 伊藤 佑樹
 - 小島 拓也
 - 新開 皇紀
@@ -48,6 +47,13 @@
 - 栃川 純平
 - 濵田 幸輝
 - 山崎 蓮大
+
+### B3 (5名)
+- 植田 啓夢
+- 前川 幸輝
+- 三谷 愛
+- 宮本 翔斗
+- 柳川 明日香
 
 ## リンク
 ### 関連学会など
@@ -59,3 +65,6 @@
 ### メンバーのみ閲覧可能
 - [slack](https://stakeuchilab.slack.com/messages)
 - [scrapbox](https://scrapbox.io/stakeuchilab/)
+
+## 過去の情報
+- [2018年度](https://stakeuch-lab.github.io/2018)
