@@ -33,8 +33,8 @@
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q）
 - ゲームプログラミング
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
+  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
-  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018年3-4Q）
 
 ## メンバー
 ### 教員
