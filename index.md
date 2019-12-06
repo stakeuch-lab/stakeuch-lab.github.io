@@ -22,6 +22,8 @@
 人間は助言を受けて強くなることができますが, コンピュータにはそれが可能でしょうか？
 そのような問を立て, それを示すためにどのようなデータがあれば良いかを考え, 適切なデータ計測や実験を計画・実行し, その問に答えようと試みています. 
 
+[論文・研究発表](https://stakeuch-lab.github.io/pubs)
+
 ### テーマ例
 - 複数のコンピュータプレイヤの利用: 合議の利用や改善・解析, コンピュータプレイヤへの助言
 - ゲームプレイヤ作成: 探索・評価・学習など
@@ -34,7 +36,7 @@
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q）
 - ゲームプログラミング
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
-  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q）
+  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q, 2019年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
 ## メンバー
