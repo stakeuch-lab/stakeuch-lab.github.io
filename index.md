@@ -2,6 +2,7 @@
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+[配属について](https://stakeuch-lab.github.io/notice)
 
 ## 研究内容
 ゲーム情報学分野での研究やゲームプログラミングを行います. 
