@@ -36,26 +36,29 @@
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q）
 - ゲームプログラミング
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
-  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2019年3-4Q, オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q）
+  - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q, 2019年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
-## [メンバー](https://stakeuch-lab.github.io/members)
+## メンバー
 ### 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
 
-### M1 （1名）
+### B4 (7名)
+- 伊藤 佑樹
+- 小島 拓也
+- 新開 皇紀
+- 髙橋 亮賢
 - 栃川 純平
+- 濵田 幸輝
+- 山崎 蓮大
 
-### B4 (5名)
+### B3 (5名)
 - 植田 啓夢
 - 前川 幸輝
 - 三谷 愛
 - 宮本 翔斗
 - 柳川 明日香
-
-### B3 (名)
-
 
 ## リンク
 ### 関連学会など
@@ -71,5 +74,4 @@
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2019年度](https://stakeuch-lab.github.io/2019)
 - [2018年度](https://stakeuch-lab.github.io/2018)
