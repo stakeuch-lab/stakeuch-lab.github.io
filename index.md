@@ -44,7 +44,7 @@
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
 
-### M1 （1名）
+### M1 (1名)
 - 栃川 純平
 
 ### B4 (5名)
