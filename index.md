@@ -31,6 +31,7 @@
 
 ## 活動
 - 輪講
+  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
   - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2019年 3-4Q, 2018年 3-4Q）
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q）
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q）
