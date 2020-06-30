@@ -67,6 +67,7 @@
 ## リンク
 ### 関連学会など
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
+  - 研究会の他に, [ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/) も開催
 - [International Computer Games Association (ICGA) ](https://icga.org/)
   - Computers and Games (CG) , Advances in Computer Games (ACG) などの国際会議を開催
 - [The annual IEEE Conference on Games](http://ieee-cog.org/)
