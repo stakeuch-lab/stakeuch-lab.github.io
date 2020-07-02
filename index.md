@@ -1,3 +1,7 @@
+---
+layout: default
+title: ゲーム情報学研究室 / 竹内研究室 （高知工科大学 情報学群）
+---
 # ゲーム情報学研究室 / 竹内研究室
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
@@ -22,7 +26,7 @@
 人間は助言を受けて強くなることができますが, コンピュータにはそれが可能でしょうか？
 そのような問を立て, それを示すためにどのようなデータがあれば良いかを考え, 適切なデータ計測や実験を計画・実行し, その問に答えようと試みています. 
 
-[論文・研究発表](https://stakeuch-lab.github.io/pubs)
+[論文・研究発表](pubs)
 
 ### テーマ例
 - 複数のコンピュータプレイヤの利用: 合議の利用や改善・解析, コンピュータプレイヤへの助言
@@ -40,7 +44,7 @@
   - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2019年3-4Q, オープンキャンパス 2019年7/27-28, MCTS輪講 2018年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
-## [メンバー](https://stakeuch-lab.github.io/members)
+## [メンバー](members)
 ### 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
@@ -79,5 +83,5 @@
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2019年度](https://stakeuch-lab.github.io/2019)
-- [2018年度](https://stakeuch-lab.github.io/2018)
+- [2019年度](2019)
+- [2018年度](2018)

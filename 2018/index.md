@@ -1,10 +1,14 @@
+---
+layout: default
+title: ゲーム情報学研究室 / 竹内研究室（2018年度アーカイブ）
+---
 # ゲーム情報学研究室 / 竹内研究室
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 これは2018年度のアーカイブです.
 
 ## お知らせ
-[研究室配属について](https://stakeuch-lab.github.io/2018/apply)
+[研究室配属について](apply)
 
 ## 研究内容
 ゲーム情報学分野での研究やゲームプログラミングを行います. 

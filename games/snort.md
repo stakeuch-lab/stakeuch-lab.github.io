@@ -1,3 +1,7 @@
+---
+layout: default
+title: Snort
+---
 # Snort
 グラフ上の節点を塗り分けるゲーム
 

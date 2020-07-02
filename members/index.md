@@ -1,3 +1,7 @@
+---
+layout: default
+title: メンバー一覧
+---
 # メンバー一覧
 ## 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
@@ -22,4 +26,4 @@
 - 三浦 昴太
 
 ## 卒業生
-[卒業生](https://stakeuch-lab.github.io/members/graduates)
+[卒業生](graduates)
