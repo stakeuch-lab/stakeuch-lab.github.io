@@ -1,0 +1,4 @@
+---
+layout: theses
+title: Theses
+---
