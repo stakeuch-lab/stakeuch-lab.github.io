@@ -72,8 +72,8 @@ title: ゲーム情報学研究室 / 竹内研究室 （高知工科大学 情�
 
 ## リンク
 ### 関連研究室など
-- [松崎教授: http://www.info.kochi-tech.ac.jp/kmatsu/index-j.html]
-- [原田助教: http://www.scinfo.kochi-tech.ac.jp/tharada/]
+- [松崎教授](http://www.info.kochi-tech.ac.jp/kmatsu/index-j.html)
+- [原田助教](http://www.scinfo.kochi-tech.ac.jp/tharada/)
 
 ### 関連学会など
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
