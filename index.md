@@ -6,7 +6,7 @@ title: ゲーム情報学研究室 / 竹内研究室 （高知工科大学 情�
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2/22 新3年生の配属についてはポータルから連絡されています。本研究室については、[https://docs.google.com/document/d/1KmkT81bjYowBQE5jWOgf2D3W6d9Z4uvopC-HTG1mM_c/edit?usp=sharing](研究室紹介)を参照して下さい。（高知工科大学のアカウントが必要です）
+- 2/22 新3年生の配属についてはポータルから連絡されています。本研究室については、[研究室紹介](https://docs.google.com/document/d/1KmkT81bjYowBQE5jWOgf2D3W6d9Z4uvopC-HTG1mM_c/edit?usp=sharing)を参照して下さい。（高知工科大学のアカウントが必要です）
 
 - 11/14 : M1 栃川が[第25回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2020/) （オンライン開催）にて「ガイスターの初期盤面における相手駒色推定の有効性」という題目で発表しました。
 
