@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
 - 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ」という題目で発表しました。
 - 2020/11/14 : M1 栃川が[第25回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2020/) （オンライン開催）にて「ガイスターの初期盤面における相手駒推定の有効性」という題目で発表しました。
 
@@ -44,13 +45,14 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## 活動
 - 輪講
+  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
-  - [深層学習](https://www.kindaikagaku.co.jp/information/kd0487.htm) (2020年 3-4Q)
-  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
-  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q）
-  - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
+  - [深層学習](https://www.kindaikagaku.co.jp/information/kd0487.htm) (2020年 3-4Q)
+  - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
+  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
 - ゲームプログラミング
+  - [おばけキャッチ](mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
   - [マンカラ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A9), [NOCCA NOCCA](https://www.undanoga.com/) (2020年)
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
   - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018年3-4Q, オープンキャンパス 2019/7/27-28, MCTS輪講 2019年3-4Q）
