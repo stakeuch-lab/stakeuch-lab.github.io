@@ -52,7 +52,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
   - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
 - ゲームプログラミング
-  - [おばけキャッチ](mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
+  - [おばけキャッチ](https://mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
   - [マンカラ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A9), [NOCCA NOCCA](https://www.undanoga.com/) (2020年)
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
   - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018年3-4Q, オープンキャンパス 2019/7/27-28, MCTS輪講 2019年3-4Q）
