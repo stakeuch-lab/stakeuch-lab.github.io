@@ -62,6 +62,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 ### 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
+  - ![mailaddress](image.png)
 
 ### M2 (1名)
 - 栃川 純平
