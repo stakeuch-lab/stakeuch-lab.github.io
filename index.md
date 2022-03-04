@@ -7,6 +7,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## お知らせ
 - 2022年: [新3年生配属について](notice)
+  - 3/8（火）15:10 からオンライン座談会をgather.town で行います: https://app.gather.town/app/TWHGX5ILdI2QXT1n/stlab
 - 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
 - 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ」という題目で発表しました。
 - 2020/11/14 : M1 栃川が[第25回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2020/) （オンライン開催）にて「ガイスターの初期盤面における相手駒推定の有効性」という題目で発表しました。
