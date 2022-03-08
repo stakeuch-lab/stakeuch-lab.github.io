@@ -30,7 +30,7 @@ A501 という他の研究室から離れた場所に位置しています.
 gather.town にてオンライン座談会などを予定しています. 
 
 3/8（火）15:10 から以下のgather.town でオンライン座談会を行います。
-- https://app.gather.town/app/TWHGX5ILdI2QXT1n/stlab
+- https://app.gather.town/invite?token=2e7TMvTb5jB3trESOpYk0FpKYb_vtc6C
 
 卒研承諾の面談は不要ですが, 面談希望者は連絡してください. 
 
