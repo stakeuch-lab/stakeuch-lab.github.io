@@ -29,9 +29,6 @@ A501 という他の研究室から離れた場所に位置しています.
 研究室の雰囲気を知り、先輩に質問する機会として研究室を見学することを推奨します. 
 gather.town にてオンライン座談会などを予定しています. 
 
-3/8（火）15:10 から以下のgather.town でオンライン座談会を行います。
-- https://app.gather.town/invite?token=2e7TMvTb5jB3trESOpYk0FpKYb_vtc6C
-
 卒研承諾の面談は不要ですが, 面談希望者は連絡してください. 
 
 質問および面談・研究室見学を希望される方は、[Google フォーム](https://forms.gle/TxM3Bqdr8Ar7kLLv8) を利用してください. 
