@@ -6,7 +6,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2022/3/20 : [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html)で優勝しました（参加3チーム）
 - 2022/3/15 : 竹内とM2 栃川, 松崎先生との共著論文「不完全情報ゲーム「ガイスター」における相手駒色推定の有効性評価」が情報処理学会論文誌にて出版されました。[情報処理学会電子図書館](http://id.nii.ac.jp/1001/00217475/)
 - 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
 - 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ」という題目で発表しました。
@@ -31,7 +30,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 人間は助言を受けて強くなることができますが, コンピュータにはそれが可能でしょうか？
 そのような問を立て, それを示すためにどのようなデータがあれば良いかを考え, 適切なデータ計測や実験を計画・実行し, その問に答えようと試みています. 
 
-[論文・研究発表](pubs)
+[論文・研究発表](../pubs)
 
 ### テーマ例
 - 複数のコンピュータプレイヤの利用: 合議の利用や改善・解析, コンピュータプレイヤへの助言
@@ -39,10 +38,11 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 - 強いゲームプレイヤを使った研究: 合議, レーティングの推定
 - 接待プレイヤ作成, ゲームの難易度調整に向けて
 
-[過去の卒業研究など](theses)
+[過去の卒業研究など](../theses)
 
 ### 研究プロジェクト
-- 2021-2023年度: 「ゲームAIの多様性評価とその影響について」科学研究費助成事業 基盤研究(C), 研究課題番号: 21K12195
+- 2021-2023年度: 「ゲームAIの多様性評価とその影響について」科学研究費助成事業 基盤研究(C), 研究課題番号: 	21K12195
+- 2017-2021年度 (2019年度終了予定から延長) : 「助言によるゲームAI強化についての研究」科学研究費助成事業 若手研究（B）, 研究課題番号 : 17K12807
 
 ## 活動
 - 輪講
@@ -59,39 +59,35 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018年3-4Q, オープンキャンパス 2019/7/27-28, MCTS輪講 2019年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
-- ゲームAI 大会参加
-  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) (2022/3/19-20)
-
-## [メンバー](members)
+## [メンバー](../members)
 ### 教員
 - [竹内 聖悟](https://sites.google.com/site/takeshogo/) （講師）
   - 居室: A463
-  - ![mailaddress](image.png)
+  - ![mailaddress](../image.png)
 
 ### M2 (1名)
+- 栃川 純平
+
+### M1 (1名)
 - 前川 幸輝
 
-### M1 (2名)
+### B4 (7名)
+- 赤嶺 駿
+- 池田 拓稲
 - 田頭 裕
 - 土居 海里
+- 服部 与一
+- 松下 和輝
+- 三浦 昴太
 
-### B4 (7名)
+### B3 (5名)
 - 井口 瞳
 - 中林 大征
 - 二宮 達彦
 - 藤田 和音
 - 吉川 実
-- 服部 与一
-- 松下 和輝
 
-### B3 (5名)
-- 黒石 隼人
-- 黒田 将司
-- 坂本 有
-- 佐々木 遥矢
-- 松尾 勇吹
-
-[卒業生](members/graduates.md)
+[卒業生](../members/graduates.md)
 
 ## リンク
 ### 関連研究室など
@@ -113,7 +109,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2021年度](2021)
-- [2020年度](2020)
-- [2019年度](2019)
-- [2018年度](2018)
+- [2020年度](../2020)
+- [2019年度](../2019)
+- [2018年度](../2018)
