@@ -6,7 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2022/3/20 : [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html)で優勝しました（参加3チーム）
+- 2022/3/20 : ゲームAI競技会 [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) のターン制戦略ゲーム [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) で優勝しました（参加3チーム）
 - 2022/3/15 : 竹内とM2 栃川, 松崎先生との共著論文「不完全情報ゲーム「ガイスター」における相手駒色推定の有効性評価」が情報処理学会論文誌にて出版されました。[情報処理学会電子図書館](http://id.nii.ac.jp/1001/00217475/)
 - 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
 - 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ」という題目で発表しました。
@@ -45,7 +45,10 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 - 2021-2023年度: 「ゲームAIの多様性評価とその影響について」科学研究費助成事業 基盤研究(C), 研究課題番号: 21K12195
 
 ## 活動
+- 修士輪講
+  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年 3Q）
 - 輪講
+  - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 3Q）
   - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
@@ -60,7 +63,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
 - ゲームAI 大会参加
-  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) (2022/3/19-20)
+  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) (優勝 2022/3/19-20)
 
 ## [メンバー](members)
 ### 教員
