@@ -46,9 +46,9 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## 活動
 - 修士輪講
-  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年 3Q）
+  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年 1Q）
 - 輪講
-  - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 3Q）
+  - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q）
   - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
