@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2022/7/3 : M1 田頭が[第48回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi48.html) （佐世保工業高等専門学校開催）にて「人狼知能における共謀の有効性」という題目で発表しました。
 - 2022/3/20 : ゲームAI競技会 [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) のターン制戦略ゲーム [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) で優勝しました（参加3チーム）
 - 2022/3/15 : 竹内とM2 栃川, 松崎先生との共著論文「不完全情報ゲーム「ガイスター」における相手駒色推定の有効性評価」が情報処理学会論文誌にて出版されました。[情報処理学会電子図書館](http://id.nii.ac.jp/1001/00217475/)
 - 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
