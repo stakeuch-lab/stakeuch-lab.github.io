@@ -6,13 +6,13 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2022/11/11-13 [第27回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2022/) （電気通信大学とオンラインのハイブリッド開催）にてM2 前川が「人間プレイヤの戦略を推定し，系列情報を用いて人間の模倣を行う麻雀プレイヤの作成」, M1 土居が「対戦テトリスにおける評価値を利用した動的難易度調整」という題目で発表しました。
-- 2022/7/3 : M1 田頭が[第48回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi48.html) （佐世保工業高等専門学校開催）にて「人狼知能における共謀の有効性」という題目で発表しました。
+- 2022/11/11-13 [第27回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2022/) （電気通信大学とオンラインのハイブリッド開催）にてM2 前川が「[人間プレイヤの戦略を推定し，系列情報を用いて人間の模倣を行う麻雀プレイヤの作成](http://id.nii.ac.jp/1001/00221892/)」, M1 土居が「[対戦テトリスにおける評価値を利用した動的難易度調整](http://id.nii.ac.jp/1001/00221897/)」という題目で発表しました。
+- 2022/7/3 : M1 田頭が[第48回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi48.html) （佐世保工業高等専門学校開催）にて「[人狼知能における共謀の有効性](http://id.nii.ac.jp/1001/00218631/)」という題目で発表しました。
 - 2022/3/20 : ゲームAI競技会 [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) のターン制戦略ゲーム [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) で優勝しました（参加3チーム）
-- 2022/3/15 : 竹内とM2 栃川, 松崎先生との共著論文「不完全情報ゲーム「ガイスター」における相手駒色推定の有効性評価」が情報処理学会論文誌にて出版されました。[情報処理学会電子図書館](http://id.nii.ac.jp/1001/00217475/)
-- 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成」という題目で発表しました。
-- 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ」という題目で発表しました。
-- 2020/11/14 : M1 栃川が[第25回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2020/) （オンライン開催）にて「ガイスターの初期盤面における相手駒推定の有効性」という題目で発表しました。
+- 2022/3/15 : 竹内とM2 栃川, 松崎先生との共著論文「[不完全情報ゲーム「ガイスター」における相手駒色推定の有効性評価](http://id.nii.ac.jp/1001/00217475/)」が情報処理学会論文誌にて出版されました。
+- 2021/11/13 : M2 栃川が[第26回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2021/) （オンライン開催）にて「[モンテカルロ木探索ガイスターにおける遺伝的プログラミングを用いたプレイアウト方策の作成](http://id.nii.ac.jp/1001/00213337/)」という題目で発表しました。
+- 2021/6/19 : M1 前川が[第46回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi46.html) （オンライン開催）にて「[麻雀プレイヤの分類とモデル構築により各人を模倣する麻雀プレイヤ](http://id.nii.ac.jp/1001/00211394/)」という題目で発表しました。
+- 2020/11/14 : M1 栃川が[第25回ゲームプログラミングワークショップ](http://www.ipsj.or.jp/sig/gi/gpw/2020/) （オンライン開催）にて「[ガイスターの初期盤面における相手駒推定の有効性](http://id.nii.ac.jp/1001/00207545/)」という題目で発表しました。
 
 ## 研究内容
 ゲーム情報学分野での研究やゲームプログラミングを行います. 
@@ -48,7 +48,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## 活動
 - 修士輪講
-  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年 1Q）
+  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年）
 - 輪講
   - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q）
   - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
@@ -58,6 +58,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
   - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
 - ゲームプログラミング
+  - T-ヌメロン（ヌメロンのバリエーション） (オープンキャンパス 2022/7/30-31)
   - [おばけキャッチ](https://mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
   - [マンカラ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A9), [NOCCA NOCCA](https://www.undanoga.com/) (2020年)
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
