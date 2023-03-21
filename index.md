@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
 - 2023/3/15 : 竹内と栃川（修士修了生）との共著論文「[遺伝的プログラミングを用いたモンテカルロガイスターのプレイアウト方策生成](http://id.nii.ac.jp/1001/00225268/)」が情報処理学会論文誌に掲載されました
 - 2022/11/11-13 [第27回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2022/) （電気通信大学とオンラインのハイブリッド開催）にてM2 前川が「[人間プレイヤの戦略を推定し，系列情報を用いて人間の模倣を行う麻雀プレイヤの作成](http://id.nii.ac.jp/1001/00221892/)」, M1 土居が「[対戦テトリスにおける評価値を利用した動的難易度調整](http://id.nii.ac.jp/1001/00221897/)」という題目で発表しました。
 - 2022/10 高知工科大学の広報誌「[FLYING FISH](https://www.kochi-tech.ac.jp/about/public/media.html)」84号の「KUT最先端研究紹介」に掲載されました。
@@ -66,6 +67,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
 
 - ゲームAI 大会参加
+  - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/) (4位, 2023/3/19)
   - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) (優勝 2022/3/19-20)
 
 ## [メンバー](members)
