@@ -10,6 +10,9 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 ）
 - 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
 - 2023/3/15 : 竹内と栃川（修士修了生）との共著論文「[遺伝的プログラミングを用いたモンテカルロガイスターのプレイアウト方策生成](http://id.nii.ac.jp/1001/00225268/)」が情報処理学会論文誌に掲載されました
+- 2022/11/11-13 [第27回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2022/) （電気通信大学とオンラインのハイブリッド開催）にてM2 前川が「[人間プレイヤの戦略を推定し，系列情報を用いて人間の模倣を行う麻雀プレイヤの作成](http://id.nii.ac.jp/1001/00221892/)」, M1 土居が「[対戦テトリスにおける評価値を利用した動的難易度調整](http://id.nii.ac.jp/1001/00221897/)」という題目で発表しました。
+- 2022/10 高知工科大学の広報誌「[FLYING FISH](https://www.kochi-tech.ac.jp/about/public/media.html)」84号の「KUT最先端研究紹介」に掲載されました。
+- 2022/7/3 : M1 田頭が[第48回GI研究発表会](http://www.ipsj.or.jp/kenkyukai/event/gi48.html) （佐世保工業高等専門学校開催）にて「[人狼知能における共謀の有効性](http://id.nii.ac.jp/1001/00218631/)」という題目で発表しました。
 
 [過去のお知らせ](notice)
 
@@ -46,11 +49,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 ### 研究プロジェクト
 - 2021-2023年度: 「ゲームAIの多様性評価とその影響について」科学研究費助成事業 基盤研究(C), 研究課題番号: 21K12195
 
-### 受賞など
-- M2 前川 [計測自動制御学会](https://www.sice.jp/) [SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞（[高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
-）(2023/3/22)
-- [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
-
 ## 活動
 - 修士輪講
   - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年）
@@ -80,31 +78,36 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - 居室: A463
   - ![mailaddress](image.png)
 
-### M2 (2名)
+### M2 (1名)
+- 前川 幸輝
+
+### M1 (2名)
 - 田頭 裕
 - 土居 海里
 
-### M1 (1名)
+### B4 (7名)
+- 井口 瞳
+- 中林 大征
+- 二宮 達彦
 - 藤田 和音
-
-### B4 (8名)
-- 黒石 隼人
-- 黒田 将司
-- 坂本 有
-- 佐々木 遥矢
-- 松尾 勇吹
 - 吉川 実
 - 服部 与一
 - 松下 和輝
 
 ### B3 (5名)
-- 石塚 真瑠
-- 大下 温斗
-- 河渕 悠有
-- 坂野 功樹
-- 前久保 智貴
+- 黒石 隼人
+- 黒田 将司
+- 坂本 有
+- 佐々木 遥矢
+- 松尾 勇吹
 
 [卒業生](members/graduates.md)
+
+## 受賞など
+- M2 前川 [計測自動制御学会](https://www.sice.jp/) [SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞（[高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
+）(2023/3/22)
+- [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
+
 
 ## リンク
 ### 関連研究室など
@@ -126,7 +129,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2022年度](2022)
 - [2021年度](2021)
 - [2020年度](2020)
 - [2019年度](2019)
