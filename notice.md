@@ -4,8 +4,7 @@ title: お知らせ
 ---
 # お知らせ
 ## 2022年度
-- 2023/3/22 M2 前川が[計測自動制御学会](https://www.sice.jp/)の[SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞しました（[高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
-）
+- 2023/3/22 M2 前川が[計測自動制御学会](https://www.sice.jp/)の[SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞しました（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 - 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
 - 2023/3/15 : 竹内と栃川（修士修了生）との共著論文「[遺伝的プログラミングを用いたモンテカルロガイスターのプレイアウト方策生成](http://id.nii.ac.jp/1001/00225268/)」が情報処理学会論文誌に掲載されました
 - 2022/11/11-13 [第27回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2022/) （電気通信大学とオンラインのハイブリッド開催）にてM2 前川が「[人間プレイヤの戦略を推定し，系列情報を用いて人間の模倣を行う麻雀プレイヤの作成](http://id.nii.ac.jp/1001/00221892/)」, M1 土居が「[対戦テトリスにおける評価値を利用した動的難易度調整](http://id.nii.ac.jp/1001/00221897/)」という題目で発表しました
