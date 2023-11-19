@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2023/11/17-19 [第28回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2023/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 土居が「[生物学的制約による人間らしい対戦テトリスAIの研究](http://id.nii.ac.jp/1001/00229231/)」, M1 藤田が「[将棋における平均悪手を用いた特徴と棋力の分析](http://id.nii.ac.jp/1001/00229240/)」という題目で発表しました
 - 2023/3/22 M2 前川が[計測自動制御学会](https://www.sice.jp/)の[SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞しました（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 - 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
 - 2023/3/15 : 竹内と栃川（修士修了生）との共著論文「[遺伝的プログラミングを用いたモンテカルロガイスターのプレイアウト方策生成](http://id.nii.ac.jp/1001/00225268/)」が情報処理学会論文誌に掲載されました
@@ -52,9 +53,10 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## 活動
 - 修士輪講
-  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年）
+  - [Artificial Intelligence and Games](https://gameaibook.org/)（2023年）
+  - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年, 2023年）
 - 輪講
-  - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q）
+  - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q, 2023年1-2Q）
   - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
@@ -62,6 +64,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
   - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
 - ゲームプログラミング
+  - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
   - ガイスター（2022年度: GAT2023参加）
   - T-ヌメロン（ヌメロンのバリエーション） (オープンキャンパス 2022/7/30-31)
   - [おばけキャッチ](https://mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
