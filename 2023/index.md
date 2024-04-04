@@ -7,6 +7,9 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 
 ## お知らせ
 - 2023/11/17-19 [第28回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2023/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 土居が「[生物学的制約による人間らしい対戦テトリスAIの研究](http://id.nii.ac.jp/1001/00229231/)」, M1 藤田が「[将棋における平均悪手を用いた特徴と棋力の分析](http://id.nii.ac.jp/1001/00229240/)」という題目で発表しました
+- 2023/3/22 M2 前川が[計測自動制御学会](https://www.sice.jp/)の[SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞しました（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
+- 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
+- 2023/3/15 : 竹内と栃川（修士修了生）との共著論文「[遺伝的プログラミングを用いたモンテカルロガイスターのプレイアウト方策生成](http://id.nii.ac.jp/1001/00225268/)」が情報処理学会論文誌に掲載されました
 
 [過去のお知らせ](notice)
 
@@ -80,25 +83,29 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - 居室: A463
   - ![mailaddress](image.png)
 
-### M2 (1名)
-- 藤田 和音
+### M2 (2名)
+- 田頭 裕
+- 土居 海里
 
 ### M1 (1名)
-- 吉川 実
+- 藤田 和音
 
-### B4 (5名)
+### B4 (8名)
+- 黒石 隼人
+- 黒田 将司
+- 坂本 有
+- 佐々木 遥矢
+- 松尾 勇吹
+- 吉川 実
+- 服部 与一
+- 松下 和輝
+
+### B3 (5名)
 - 石塚 真瑠
 - 大下 温斗
 - 河渕 悠有
 - 坂野 功樹
 - 前久保 智貴
-
-### B3 (5名)
-- 足立 知己
-- 大月 陽平
-- 佐々木 嶺
-- 太郎良 俊輔
-- 中村 陵雅
 
 [卒業生](members/graduates.md)
 
@@ -122,7 +129,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2023年度](2023)
 - [2022年度](2022)
 - [2021年度](2021)
 - [2020年度](2020)

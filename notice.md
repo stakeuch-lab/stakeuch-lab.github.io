@@ -3,6 +3,9 @@ layout: default
 title: お知らせ
 ---
 # お知らせ
+## 2023年度
+- 2023/11/17-19 [第28回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2023/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 土居が「[生物学的制約による人間らしい対戦テトリスAIの研究](http://id.nii.ac.jp/1001/00229231/)」, M1 藤田が「[将棋における平均悪手を用いた特徴と棋力の分析](http://id.nii.ac.jp/1001/00229240/)」という題目で発表しました
+
 ## 2022年度
 - 2023/3/22 M2 前川が[計測自動制御学会](https://www.sice.jp/)の[SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞しました（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 - 2023/3/19 : ゲームAI競技会 [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) の[ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/)にB3坂本とB3松尾と参加し, 7チーム中の4位となりました
