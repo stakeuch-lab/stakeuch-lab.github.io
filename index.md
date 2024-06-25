@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi University of Technology)
+title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi University of Technology)
 ---
 # ゲーム情報学研究室 / 竹内研究室
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
@@ -53,13 +53,13 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Information, Kochi Unive
   - [Artificial Intelligence and Games](https://gameaibook.org/)（2023年）
   - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年, 2023年）
 - 輪講
+  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q, 2024年 2Q）
+  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q, 2024年 1Q）
   - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q, 2023年1-2Q）
-  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
   - [深層学習](https://www.kindaikagaku.co.jp/information/kd0487.htm) (2020年 3-4Q)
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
-  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q）
 - ゲームプログラミング
   - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
   - ガイスター（2022年度: GAT2023参加）
