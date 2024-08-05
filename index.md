@@ -46,7 +46,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 ### 受賞など
 - M2 前川 [計測自動制御学会](https://www.sice.jp/) [SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 ）(2023/3/22)
-- [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
+- [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
 
 ## 活動
 - 修士輪講
@@ -72,7 +72,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 
 - ゲームAI 大会参加
   - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/) (4位, 2023/3/19)
-  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](http://www.sasebo.ac.jp/~n_sato/competition_2022gat.html) (優勝 2022/3/19-20)
+  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
 
 ## [メンバー](members)
 ### 教員
