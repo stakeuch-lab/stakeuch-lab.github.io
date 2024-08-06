@@ -4,14 +4,15 @@ title: Research Introduction
 ---
 
 # Research in Game Informatics Lab.
-We conduct research in the field of game informatics and engage in game programming. Our work includes creating strong game players for board games such as Shogi and Go, as well as exploring new research themes based on the premise of having strong players. 
+We conduct research in the field of game informatics and engage in game programming. Our work includes creating strong game AIs for board games such as Shogi and Go, as well as exploring new research themes based on the premise of existance of strong AIs. 
 
-Additionally, we are exploring new research topics such as tasks that humans can perform but AI cannot yet accomplish, and the development of game players that surpass human abilities. Fundamentally, our work revolves around the use of AI in games, particularly board games and card games, to discover effective methods for AI utilization. 
+Additionally, we are exploring new research topics such as tasks that humans can perform but AI cannot yet accomplish, and exploring what can be accomplished with game AI that surpasses human abilities. 
+Fundamentally, our work revolves around the use of AI in games, particularly board games and card games, to discover effective methods for AI utilization. 
 
 Below are the topics handled in our laboratory. 
 
 ## Cooperation Among (Board) Game AIs
-We are conducting research on how to better utilize multiple players. 
+We are conducting research on how to better utilize multiple AIs. 
 
 Also see: [Cutting edge Research (Research Introduction in Kochi University of Technology)](https://www.kochi-tech.ac.jp/english/power/research/pioneering-a-new-generation-of-games-focusing-in-on-the-concept-of-diversity-in-artificial-intellige.html)
 
