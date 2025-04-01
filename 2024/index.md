@@ -5,9 +5,11 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 # ゲーム情報学研究室 / 竹内研究室
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
+- [新3年生配属について](apply)
+
 ## お知らせ
-- 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民](https://flute.u-shizuoka-ken.ac.jp/gat/)にB3 大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
 - 2024/11/15-17 [第29回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2024/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 藤田が「[将棋における特徴や平均悪手にみられる AI と人間の差](http://id.nii.ac.jp/1001/00240617/)」, M1 吉川が「[ターン制ストラテジーゲームのための遺伝的アルゴリズムによる対等なマップ自動生成](http://id.nii.ac.jp/1001/00240618/)」という題目で発表しました
+- 2023/11/17-19 [第28回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2023/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 土居が「[生物学的制約による人間らしい対戦テトリスAIの研究](http://id.nii.ac.jp/1001/00229231/)」, M1 藤田が「[将棋における平均悪手を用いた特徴と棋力の分析](http://id.nii.ac.jp/1001/00229240/)」という題目で発表しました
 
 [過去のお知らせ](notice)
 
@@ -82,21 +84,24 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - ![mailaddress](image.png)
 
 ### M2 (1名)
+- 藤田 和音
+
+### M1 (1名)
 - 吉川 実
 
 ### B4 (5名)
+- 石塚 真瑠
+- 大下 温斗
+- 河渕 悠有
+- 坂野 功樹
+- 前久保 智貴
+
+### B3 (5名)
 - 足立 知己
 - 大月 陽平
 - 佐々木 嶺
 - 太郎良 俊輔
 - 中村 陵雅
-
-### B3 (5名)
-- 加藤 靖大
-- 栗政 祐志
-- 五藤 潤
-- 西岡 宏祐
-- 宮田 真
 
 [卒業生](members/graduates.md)
 
@@ -120,7 +125,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2024年度](2024)
 - [2023年度](2023)
 - [2022年度](2022)
 - [2021年度](2021)
