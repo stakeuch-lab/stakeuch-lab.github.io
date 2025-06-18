@@ -59,6 +59,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [深層学習](https://www.kindaikagaku.co.jp/information/kd0487.htm) (2020年 3-4Q)
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
 - ゲームプログラミング
+  - 五目並べ（オープンキャンパス 2024/8/3-4）
   - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
   - ガイスター（2022年度: GAT2023参加）
   - T-ヌメロン（ヌメロンのバリエーション） (オープンキャンパス 2022/7/30-31)
@@ -102,7 +103,9 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 ### 関連研究室など
 - 高知工科大学 情報学群
   - 高度プログラミング研究室 [松崎 公紀 教授](http://www.info.kochi-tech.ac.jp/kmatsu/index-j.html)
+  - 強化学習と探索研究室 [Wei Ting Han教授](https://www.info.kochi-tech.ac.jp/faculty_members/profile_wei.shtml)
   - アルゴリズム研究室 [原田 崇司 講師](http://www.scinfo.kochi-tech.ac.jp/tharada/)
+- [ゲームAI深化研究センター](https://www.kochi-tech.ac.jp/research/research_center/ai_robotics/game-ai.html)
 
 ### 関連学会など
 - [情報処理学会](http://www.ipsj.or.jp/) [ゲーム情報学研究会 SIG-GI](http://www.ipsj.or.jp/sig/gi/)
