@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表しました
 - 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)に大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
 - 2024/11/15-17 [第29回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2024/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 藤田が「[将棋における特徴や平均悪手にみられる AI と人間の差](http://id.nii.ac.jp/1001/00240617/)」, M1 吉川が「[ターン制ストラテジーゲームのための遺伝的アルゴリズムによる対等なマップ自動生成](http://id.nii.ac.jp/1001/00240618/)」という題目で発表しました
 
@@ -51,28 +52,29 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [Artificial Intelligence and Games](https://gameaibook.org/)（2023年）
   - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年, 2023年）
 - 輪講
-  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q, 2024年 2Q）
-  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q, 2024年 1Q）
+  - [AlphaZero 深層学習・強化学習・探索 人工知能プログラミング実践入門](https://www.borndigital.co.jp/book/14383/)（2025年 2Q）
+  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q, 2024年 2Q, 2025年1Q）
+  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q, 2024年 1Q, 2025年 1Q）
   - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q, 2023年1-2Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
   - [深層学習](https://www.kindaikagaku.co.jp/information/kd0487.htm) (2020年 3-4Q)
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
+
+- ゲームAI 大会参加
+  - [GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2024) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/) (), [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) (OneMind), [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html) (SakiyomiPurple) 2025/3/4-5
+  - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](https://www.gi-ipsj.org/geister/GAT/2023/index.html) (KUT geister	4位) 2023/3/19
+  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) (KUT_GI_UCT 優勝) 2022/3/19-20
+
 - ゲームプログラミング
   - 五目並べ（オープンキャンパス 2024/8/3-4）
   - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
-  - ガイスター（2022年度: GAT2023参加）
   - T-ヌメロン（ヌメロンのバリエーション） (オープンキャンパス 2022/7/30-31)
   - [おばけキャッチ](https://mobius-games.co.jp/Zoch/GeistersBlitz.html), [Quixo](https://www.play-departmentstore.com/fs/castjapan/gc007) (2021年)
   - [マンカラ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AB%E3%83%A9), [NOCCA NOCCA](https://www.undanoga.com/) (2020年)
   - [Posit](https://www.nakajim.net/index.php?Posit), [FlipFlop](https://www.nakajim.net/index.php?FlipFlop)（オープンキャンパス 2019/7/27-28）
   - [Snort](https://en.wikipedia.org/wiki/Col_(game)) （MCTS輪講 2018年3-4Q, オープンキャンパス 2019/7/27-28, MCTS輪講 2019年3-4Q）
   - [京都将棋](https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B), [コリドール](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC%E3%83%AB)（オープンキャンパス 2018/7/28, 8/5）
-
-- ゲームAI 大会参加
-  - [GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2024) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/), [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025), [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html) (2025/3/4-5)
-  - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](http://www2.matsue-ct.ac.jp/home/hashimoto/geister/GAT/2023/) (4位, 2023/3/19)
-  - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
 
 ## [メンバー](members)
 ### 教員

@@ -3,6 +3,9 @@ layout: default
 title: お知らせ
 ---
 # お知らせ
+## 2025年度
+- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表しました
+
 ## 2024年度
 - 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民](https://flute.u-shizuoka-ken.ac.jp/gat/)にB3 大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
 - 2024/11/15-17 [第29回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2024/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 藤田が「[将棋における特徴や平均悪手にみられる AI と人間の差](http://id.nii.ac.jp/1001/00240617/)」, M1 吉川が「[ターン制ストラテジーゲームのための遺伝的アルゴリズムによる対等なマップ自動生成](http://id.nii.ac.jp/1001/00240618/)」という題目で発表しました
