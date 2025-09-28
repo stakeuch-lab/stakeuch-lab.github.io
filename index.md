@@ -6,7 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表しました
+- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)を受賞しました
 - 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)に大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
 - 2024/11/15-17 [第29回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2024/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 藤田が「[将棋における特徴や平均悪手にみられる AI と人間の差](http://id.nii.ac.jp/1001/00240617/)」, M1 吉川が「[ターン制ストラテジーゲームのための遺伝的アルゴリズムによる対等なマップ自動生成](http://id.nii.ac.jp/1001/00240618/)」という題目で発表しました
 
@@ -43,6 +43,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [過去の卒業研究など](theses)
 
 ### 受賞など
+- B4 中村 [GI56](https://www.ipsj.or.jp/kenkyukai/event/gi56.html) の発表で[若手奨励賞（GI研究会）](https://www.ipsj.or.jp/award/gi-award1.html) を受賞 (2025/9/4)
 - M2 前川 [計測自動制御学会](https://www.sice.jp/) [SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 ）(2023/3/22)
 - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
