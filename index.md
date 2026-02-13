@@ -63,11 +63,12 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
 
 - ゲームAI 大会参加
-  - [GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2024) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/) (), [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) (OneMind), [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html) (SakiyomiPurple) 2025/3/4-5
-  - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](https://www.gi-ipsj.org/geister/GAT/2023/index.html) (KUT geister	4位) 2023/3/19
+  - [GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2024) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/), [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) (OneMind), [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html) (SakiyomiPurple) 2025/3/4-5
+  - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](https://www.gi-ipsj.org/geister/GAT/2023/index.html) (KUT geister 4位) 2023/3/19
   - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) (KUT_GI_UCT 優勝) 2022/3/19-20
 
 - ゲームプログラミング
+  - どうぶつしょうぎ（オープンキャンパス 2025/8/2-3）
   - 五目並べ（オープンキャンパス 2024/8/3-4）
   - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
   - T-ヌメロン（ヌメロンのバリエーション） (オープンキャンパス 2022/7/30-31)
