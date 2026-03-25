@@ -6,11 +6,12 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
-- 2026/3/4-5 ゲームAI競技会[GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2026) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)のライト部門に加藤らが, [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) に栗政, 五藤, 西岡が, [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) に宮田が参加しました
 - 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)を受賞しました
 - 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)に大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
+- 2024/11/15-17 [第29回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2024/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM2 藤田が「[将棋における特徴や平均悪手にみられる AI と人間の差](http://id.nii.ac.jp/1001/00240617/)」, M1 吉川が「[ターン制ストラテジーゲームのための遺伝的アルゴリズムによる対等なマップ自動生成](http://id.nii.ac.jp/1001/00240618/)」という題目で発表しました
 
 [過去のお知らせ](notice)
+
 
 ## 研究内容
 ゲーム情報学分野での研究やゲームプログラミングを行います. 
@@ -62,7 +63,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [Python言語によるプログラミングイントロダクション第2版](https://www.kindaikagaku.co.jp/information/kd0518.htm)（2019年 1-2Q, 2020年 2Q）
 
 - ゲームAI 大会参加
-  - [GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E811%B2%F3GAT2026) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/) (ライト部門で優勝), [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) (KizaruGo, 9路部門), [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) (KNG_AI 準優勝) 2026/3/4-5
+  - [GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E811%B2%F3GAT2026) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/) (), [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) (), [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) () 2026/3/4-5
   - [GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2024) [大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/), [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) (OneMind), [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html) (SakiyomiPurple) 2025/3/4-5
   - [GAT2023](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B8%B2%F3GAT2023) [ガイスター部門](https://www.gi-ipsj.org/geister/GAT/2023/index.html) (KUT geister 4位) 2023/3/19
   - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) (KUT_GI_UCT 優勝) 2022/3/19-20
@@ -87,24 +88,26 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 ### M2 (1名)
 - 吉川 実
 
-### M1 (1名)
-- 足立 知己
-
 ### B4 (5名)
+- 足立 知己
+- 大月 陽平
+- 佐々木 嶺
+- 太郎良 俊輔
+- 中村 陵雅
+
+### B3 (名)
 - 加藤 靖大
 - 栗政 祐志
 - 五藤 潤
 - 西岡 宏祐
 - 宮田 真
 
-### B3 (名)
-
 [卒業生](members/graduates.md)
 
 ## リンク
 ### 関連研究室など
 - 高知工科大学 情報学群
-  - 高度プログラミング研究室 [松崎 公紀 教授](http://www.info.kochi-tech.ac.jp/kmatsu/index-j.html) (データ＆イノベーション学群)
+  - 高度プログラミング研究室 [松崎 公紀 教授](http://www.info.kochi-tech.ac.jp/kmatsu/index-j.html)
   - 強化学習と探索研究室 [Wei Ting Han教授](https://www.info.kochi-tech.ac.jp/faculty_members/profile_wei.shtml)
   - アルゴリズム研究室 [原田 崇司 講師](http://www.scinfo.kochi-tech.ac.jp/tharada/)
 
@@ -124,7 +127,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 - [github](https://github.com/stakeuch-lab)
 
 ## 過去の情報
-- [2025年度](2025)
 - [2024年度](2024)
 - [2023年度](2023)
 - [2022年度](2022)
