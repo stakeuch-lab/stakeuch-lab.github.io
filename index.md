@@ -8,7 +8,6 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 ## お知らせ
 - 2026/3/4-5 ゲームAI競技会[GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2026) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)のライト部門に加藤らが, [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) に栗政, 五藤, 西岡が, [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) に宮田が参加しました
 - 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)を受賞しました
-- 2025/3/4-5 ゲームAI競技会[GAT2025](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2025) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)に大月と太郎良, [デジタルカーリング部門](http://minerva.cs.uec.ac.jp/cgi-bin/curling/wiki.cgi?page=GAT%5F2025) に足立と中村, [ガイスター部門](https://olivelion13.sakura.ne.jp/geister/GAT/2025/index.html)に佐々木が参加しました
 
 [過去のお知らせ](notice)
 
@@ -97,7 +96,12 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 - 西岡 宏祐
 - 宮田 真
 
-### B3 (名)
+### B3 (5名)
+- 岩元 駿太  
+- 小笠原 柚季
+- 高橋 凛    
+- 田中 琉輝斗
+- 桝矢 真舞  
 
 [卒業生](members/graduates.md)
 
