@@ -7,7 +7,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 
 ## お知らせ
 - 2026/3/4-5 ゲームAI競技会[GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2026) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)のライト部門に加藤らが, [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) に栗政, 五藤, 西岡が, [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) に宮田が参加しました
-- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html)を受賞しました
+- 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html#hdg0)を受賞しました
 
 [過去のお知らせ](notice)
 
@@ -41,7 +41,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [過去の卒業研究など](theses)
 
 ### 受賞など
-- B4 中村 [GI56](https://www.ipsj.or.jp/kenkyukai/event/gi56.html) の発表で[若手奨励賞（GI研究会）](https://www.ipsj.or.jp/award/gi-award1.html) を受賞 (2025/9/4)
+- B4 中村 [GI56](https://www.ipsj.or.jp/kenkyukai/event/gi56.html) の発表で[若手奨励賞（GI研究会）](https://www.ipsj.or.jp/award/gi-award1.html#hdg0) を受賞 (2025/9/4)
 - M2 前川 [計測自動制御学会](https://www.sice.jp/) [SICE優秀学生賞](https://www.sice.jp/act/awards/sice_student_award.html) を受賞（[2022年度 SICE優秀学生賞 受賞者一覧](https://www.sice.jp/wp-content/uploads/file/sice_superior_student_award_2022.pdf)(pdf), [高知工科大学 広報ページ](https://www.kochi-tech.ac.jp/news/2023/006009.html)
 ）(2023/3/22)
 - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) 優勝 (2022/3/19-20)
