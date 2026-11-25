@@ -6,6 +6,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
 [高知工科大学](https://www.kochi-tech.ac.jp/) [情報学群](http://www.info.kochi-tech.ac.jp/) A501
 
 ## お知らせ
+- 2026/11/20-22 [第31回ゲームプログラミングワークショップ](https://www.gi-ipsj.org/gpw/2026/)（箱根セミナーハウスとオンラインのハイブリッド開催）にてM1 足立が「Maia2におけるレート帯別モデルの一貫性と棋力差に関する分析」, B4 西岡が「盤上ゲーム変種における手番の有利・駒価値を調査する手法の提案」という題目で発表しました
 - 2026/3/4-5 ゲームAI競技会[GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E810%B2%F3GAT2026) の[大貧民部門](https://flute.u-shizuoka-ken.ac.jp/gat/)のライト部門に加藤らが, [第１回66将棋AI大会 in GAT2026](http://minerva.cs.uec.ac.jp/cgi-bin/uec55shogi/wiki.cgi?page=GAT%C7%D5%C2%E81%B2%F366%BE%AD%B4%FDAI%C2%E7%B2%F1) に栗政, 五藤, 西岡が, [The 2nd Computer Go GAT-cup](http://www.yss-aya.com/cgfopen/gat2026/gat2026.html) に宮田が参加しました
 - 2025/9/4 [第56回ゲーム情報学研究発表会](https://www.ipsj.or.jp/kenkyukai/event/gi56.html)（北海道科学大学とオンラインのハイブリッド開催）にてB4 中村が「[完全解析を用いた6x6オセロのハンディキャップ設計](https://ipsj.ixsq.nii.ac.jp/records/2003775)」という題目で発表し, [若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html#hdg0)を受賞しました
 
@@ -51,9 +52,9 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [Artificial Intelligence and Games](https://gameaibook.org/)（2023年）
   - [AI for Games, Third Edition](https://www.routledge.com/AI-for-Games-Third-Edition/Millington/p/book/9780367670566)（2022年, 2023年）
 - 輪講
-  - [AlphaZero 深層学習・強化学習・探索 人工知能プログラミング実践入門](https://www.borndigital.co.jp/book/14383/)（2025年 2Q）
-  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q, 2024年 2Q, 2025年1Q）
-  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q, 2024年 1Q, 2025年 1Q）
+  - [AlphaZero 深層学習・強化学習・探索 人工知能プログラミング実践入門](https://www.borndigital.co.jp/book/14383/)（2025年 2Q, 2026年1Q）
+  - [コンピュータ囲碁 -モンテカルロ法の理論と実践-](https://www.kyoritsu-pub.co.jp/bookdetail/9784320123274)（2018年 3-4Q, 2019年 3-4Q, 2021年 3-4Q, 2024年 2Q, 2025年1Q, 2026年1Q）
+  - [ゲーム情報学概論](https://www.coronasha.co.jp/np/isbn/9784339028850/)（2020年 1Q, 2024年 1Q, 2025年 1Q, 2026年1Q）
   - [ゲームAIと深層学習 ニューロ進化と人間性](https://www.ohmsha.co.jp/book/9784274222528/)（2022年 1-2Q, 2023年1-2Q）
   - [新しいLinuxの教科書](https://www.sbcr.jp/product/4797380941/) (2021年 2Q)
   - [ゲーム計算メカニズム](http://www.coronasha.co.jp/np/isbn/9784339025408/)（2018年 1-2Q, 2021年 1Q）
@@ -67,6 +68,7 @@ title: Game Informatics Lab. / Takeuchi Lab. (School of Informatics, Kochi Unive
   - [GAT2022](http://minerva.cs.uec.ac.jp/cgi-bin/gat_uec/wiki.cgi?page=%C2%E8%A3%B7%B2%F3GAT2022) [TUBSTAP部門](https://www.sasebo.ac.jp/users/n_sato/competition_2022gat.html) (KUT_GI_UCT 優勝) 2022/3/19-20
 
 - ゲームプログラミング
+  - コリドール（オープンキャンパス 2026/8/1-2）
   - どうぶつしょうぎ（オープンキャンパス 2025/8/2-3）
   - 五目並べ（オープンキャンパス 2024/8/3-4）
   - オセロ（負けるオセロ:オープンキャンパス 2023/8/5-6）
